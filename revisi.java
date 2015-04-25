@@ -1,3 +1,5 @@
+// Aprove by Gunawan, Date: April 25
+
 package pbo1_023;
 
 public class tampil {
